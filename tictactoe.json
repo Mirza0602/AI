@@ -1,0 +1,7 @@
+{
+    "name": "tictactoe",
+    "labels": [
+        {"name": "x", "key": "x"},
+        {"name": "o", "key": "o"}
+    ]
+}
